@@ -1,0 +1,6 @@
+PortNumber:50009
+test1 Address:src/test1.html
+test2 Address:src/test2.html
+Persistent Connection:true
+Idle time:60
+Browser Version:Firefox 82.0.2
